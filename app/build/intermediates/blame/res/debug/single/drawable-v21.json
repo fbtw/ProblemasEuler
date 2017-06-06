@@ -8,8 +8,24 @@
         "source": "/Users/fborja/.android/build-cache/dae7dd4271dbcdc7b54c9cc0e910c1e1ea0453d9/output/res/drawable-v21/abc_edit_text_material.xml"
     },
     {
+        "merged": "/Users/fborja/StudioProjects/ProblemasEuler/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/fborja/.android/build-cache/f387f3fb1d52b3c0f4616cc65e5ec7bccfba3543/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/fborja/StudioProjects/ProblemasEuler/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/fborja/.android/build-cache/f387f3fb1d52b3c0f4616cc65e5ec7bccfba3543/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
         "merged": "/Users/fborja/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
         "source": "/Users/fborja/.android/build-cache/dae7dd4271dbcdc7b54c9cc0e910c1e1ea0453d9/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/fborja/StudioProjects/ProblemasEuler/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/fborja/.android/build-cache/f387f3fb1d52b3c0f4616cc65e5ec7bccfba3543/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/fborja/StudioProjects/ProblemasEuler/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/fborja/.android/build-cache/f387f3fb1d52b3c0f4616cc65e5ec7bccfba3543/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
     },
     {
         "merged": "/Users/fborja/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",

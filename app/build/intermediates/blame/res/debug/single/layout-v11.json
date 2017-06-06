@@ -1,11 +1,19 @@
 [
     {
+        "merged": "/Users/fborja/StudioProjects/ProblemasEuler/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/fborja/.android/build-cache/f387f3fb1d52b3c0f4616cc65e5ec7bccfba3543/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
         "merged": "/Users/fborja/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
         "source": "/Users/fborja/.android/build-cache/dae7dd4271dbcdc7b54c9cc0e910c1e1ea0453d9/output/res/layout-v11/notification_media_action.xml"
     },
     {
         "merged": "/Users/fborja/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
         "source": "/Users/fborja/.android/build-cache/dae7dd4271dbcdc7b54c9cc0e910c1e1ea0453d9/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/fborja/StudioProjects/ProblemasEuler/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/fborja/.android/build-cache/f387f3fb1d52b3c0f4616cc65e5ec7bccfba3543/output/res/layout-v11/notification_media_action.xml"
     },
     {
         "merged": "/Users/fborja/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
@@ -16,11 +24,27 @@
         "source": "/Users/fborja/.android/build-cache/dae7dd4271dbcdc7b54c9cc0e910c1e1ea0453d9/output/res/layout-v11/notification_template_big_media.xml"
     },
     {
+        "merged": "/Users/fborja/StudioProjects/ProblemasEuler/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/fborja/.android/build-cache/f387f3fb1d52b3c0f4616cc65e5ec7bccfba3543/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
         "merged": "/Users/fborja/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
         "source": "/Users/fborja/.android/build-cache/dae7dd4271dbcdc7b54c9cc0e910c1e1ea0453d9/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
     },
     {
+        "merged": "/Users/fborja/StudioProjects/ProblemasEuler/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/fborja/.android/build-cache/f387f3fb1d52b3c0f4616cc65e5ec7bccfba3543/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
         "merged": "/Users/fborja/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
         "source": "/Users/fborja/.android/build-cache/dae7dd4271dbcdc7b54c9cc0e910c1e1ea0453d9/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/fborja/StudioProjects/ProblemasEuler/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/fborja/.android/build-cache/f387f3fb1d52b3c0f4616cc65e5ec7bccfba3543/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/fborja/StudioProjects/ProblemasEuler/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/fborja/.android/build-cache/f387f3fb1d52b3c0f4616cc65e5ec7bccfba3543/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
     }
 ]

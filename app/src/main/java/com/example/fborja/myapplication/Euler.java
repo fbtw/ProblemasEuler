@@ -61,10 +61,7 @@ public class Euler {
     }
 
     public static int quinto(int m){
-        int mcm=1;
-        mcm=MCM(m,MCM(m-1, ... ,2));
-
-        return mcm;
+        return MCM(m,m-1);
     }
 
     public static int MCM(int x,int y) {
@@ -82,7 +79,9 @@ public class Euler {
             ñ=(int) Math.pow(primos[i],ñ);
             if (ñ>0)mcm*=ñ;
         }
-        return mcm;
+
+        if (y==1) return mcm;
+        else return MCM(mcm,y-1);
     }
 
     public static int[] factoresprimos(int x) {

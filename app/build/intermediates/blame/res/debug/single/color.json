@@ -20,16 +20,48 @@
         "source": "/Users/fborja/.android/build-cache/dae7dd4271dbcdc7b54c9cc0e910c1e1ea0453d9/output/res/color/abc_secondary_text_material_dark.xml"
     },
     {
+        "merged": "/Users/fborja/StudioProjects/ProblemasEuler/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/fborja/.android/build-cache/f387f3fb1d52b3c0f4616cc65e5ec7bccfba3543/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/fborja/StudioProjects/ProblemasEuler/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/fborja/.android/build-cache/f387f3fb1d52b3c0f4616cc65e5ec7bccfba3543/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/fborja/StudioProjects/ProblemasEuler/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/fborja/.android/build-cache/f387f3fb1d52b3c0f4616cc65e5ec7bccfba3543/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/fborja/StudioProjects/ProblemasEuler/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/fborja/.android/build-cache/f387f3fb1d52b3c0f4616cc65e5ec7bccfba3543/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
         "merged": "/Users/fborja/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
         "source": "/Users/fborja/.android/build-cache/dae7dd4271dbcdc7b54c9cc0e910c1e1ea0453d9/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/fborja/StudioProjects/ProblemasEuler/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/fborja/.android/build-cache/f387f3fb1d52b3c0f4616cc65e5ec7bccfba3543/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/fborja/StudioProjects/ProblemasEuler/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/fborja/.android/build-cache/f387f3fb1d52b3c0f4616cc65e5ec7bccfba3543/output/res/color/switch_thumb_material_light.xml"
     },
     {
         "merged": "/Users/fborja/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
         "source": "/Users/fborja/.android/build-cache/dae7dd4271dbcdc7b54c9cc0e910c1e1ea0453d9/output/res/color/abc_primary_text_material_dark.xml"
     },
     {
+        "merged": "/Users/fborja/StudioProjects/ProblemasEuler/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/fborja/.android/build-cache/f387f3fb1d52b3c0f4616cc65e5ec7bccfba3543/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
         "merged": "/Users/fborja/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
         "source": "/Users/fborja/.android/build-cache/dae7dd4271dbcdc7b54c9cc0e910c1e1ea0453d9/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/fborja/StudioProjects/ProblemasEuler/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/fborja/.android/build-cache/f387f3fb1d52b3c0f4616cc65e5ec7bccfba3543/output/res/color/abc_secondary_text_material_light.xml"
     },
     {
         "merged": "/Users/fborja/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
@@ -40,7 +72,19 @@
         "source": "/Users/fborja/.android/build-cache/dae7dd4271dbcdc7b54c9cc0e910c1e1ea0453d9/output/res/color/abc_search_url_text.xml"
     },
     {
+        "merged": "/Users/fborja/StudioProjects/ProblemasEuler/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/fborja/.android/build-cache/f387f3fb1d52b3c0f4616cc65e5ec7bccfba3543/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/fborja/StudioProjects/ProblemasEuler/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/fborja/.android/build-cache/f387f3fb1d52b3c0f4616cc65e5ec7bccfba3543/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
         "merged": "/Users/fborja/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
         "source": "/Users/fborja/.android/build-cache/dae7dd4271dbcdc7b54c9cc0e910c1e1ea0453d9/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/fborja/StudioProjects/ProblemasEuler/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/fborja/.android/build-cache/f387f3fb1d52b3c0f4616cc65e5ec7bccfba3543/output/res/color/abc_hint_foreground_material_light.xml"
     }
 ]

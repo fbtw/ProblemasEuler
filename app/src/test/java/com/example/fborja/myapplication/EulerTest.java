@@ -59,8 +59,8 @@ public class EulerTest {
     }
     @Test
     public void quintoTest() throws Exception {
-        int resultado= Euler.quinto();
-        Assert.assertEquals(0,resultado);
+        int resultado= Euler.quinto(20);
+        Assert.assertEquals(232792560,resultado);
     }
 
 

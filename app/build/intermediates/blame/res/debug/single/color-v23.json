@@ -4,8 +4,20 @@
         "source": "/Users/fborja/.android/build-cache/dae7dd4271dbcdc7b54c9cc0e910c1e1ea0453d9/output/res/color-v23/abc_tint_switch_thumb.xml"
     },
     {
+        "merged": "/Users/fborja/StudioProjects/ProblemasEuler/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/fborja/.android/build-cache/f387f3fb1d52b3c0f4616cc65e5ec7bccfba3543/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
         "merged": "/Users/fborja/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
         "source": "/Users/fborja/.android/build-cache/dae7dd4271dbcdc7b54c9cc0e910c1e1ea0453d9/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/fborja/StudioProjects/ProblemasEuler/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/fborja/.android/build-cache/f387f3fb1d52b3c0f4616cc65e5ec7bccfba3543/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/fborja/StudioProjects/ProblemasEuler/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/fborja/.android/build-cache/f387f3fb1d52b3c0f4616cc65e5ec7bccfba3543/output/res/color-v23/abc_tint_switch_thumb.xml"
     },
     {
         "merged": "/Users/fborja/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
@@ -16,8 +28,24 @@
         "source": "/Users/fborja/.android/build-cache/dae7dd4271dbcdc7b54c9cc0e910c1e1ea0453d9/output/res/color-v23/abc_tint_switch_track.xml"
     },
     {
+        "merged": "/Users/fborja/StudioProjects/ProblemasEuler/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/fborja/.android/build-cache/f387f3fb1d52b3c0f4616cc65e5ec7bccfba3543/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
         "merged": "/Users/fborja/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
         "source": "/Users/fborja/.android/build-cache/dae7dd4271dbcdc7b54c9cc0e910c1e1ea0453d9/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/fborja/StudioProjects/ProblemasEuler/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/fborja/.android/build-cache/f387f3fb1d52b3c0f4616cc65e5ec7bccfba3543/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/fborja/StudioProjects/ProblemasEuler/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/fborja/.android/build-cache/f387f3fb1d52b3c0f4616cc65e5ec7bccfba3543/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/fborja/StudioProjects/ProblemasEuler/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/fborja/.android/build-cache/f387f3fb1d52b3c0f4616cc65e5ec7bccfba3543/output/res/color-v23/abc_tint_edittext.xml"
     },
     {
         "merged": "/Users/fborja/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
@@ -32,11 +60,23 @@
         "source": "/Users/fborja/.android/build-cache/dae7dd4271dbcdc7b54c9cc0e910c1e1ea0453d9/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
     },
     {
+        "merged": "/Users/fborja/StudioProjects/ProblemasEuler/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/fborja/.android/build-cache/f387f3fb1d52b3c0f4616cc65e5ec7bccfba3543/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/fborja/StudioProjects/ProblemasEuler/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/fborja/.android/build-cache/f387f3fb1d52b3c0f4616cc65e5ec7bccfba3543/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
         "merged": "/Users/fborja/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
         "source": "/Users/fborja/.android/build-cache/dae7dd4271dbcdc7b54c9cc0e910c1e1ea0453d9/output/res/color-v23/abc_tint_edittext.xml"
     },
     {
         "merged": "/Users/fborja/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
         "source": "/Users/fborja/.android/build-cache/dae7dd4271dbcdc7b54c9cc0e910c1e1ea0453d9/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/fborja/StudioProjects/ProblemasEuler/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/fborja/.android/build-cache/f387f3fb1d52b3c0f4616cc65e5ec7bccfba3543/output/res/color-v23/abc_tint_spinner.xml"
     }
 ]

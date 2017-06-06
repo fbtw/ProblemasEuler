@@ -1,71 +1,71 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/fborja/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:1:1-15:12
+ADDED from /Users/fborja/StudioProjects/ProblemasEuler/app/src/main/AndroidManifest.xml:1:1-15:12
 	package
-		ADDED from /Users/fborja/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:3:5-47
-		INJECTED from /Users/fborja/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/fborja/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fborja/StudioProjects/ProblemasEuler/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /Users/fborja/StudioProjects/ProblemasEuler/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fborja/StudioProjects/ProblemasEuler/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/fborja/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/fborja/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fborja/StudioProjects/ProblemasEuler/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fborja/StudioProjects/ProblemasEuler/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/fborja/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/fborja/StudioProjects/ProblemasEuler/app/src/main/AndroidManifest.xml:1:11-69
 	android:versionCode
-		INJECTED from /Users/fborja/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/fborja/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fborja/StudioProjects/ProblemasEuler/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fborja/StudioProjects/ProblemasEuler/app/src/main/AndroidManifest.xml
 application
-ADDED from /Users/fborja/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:5:5-13:19
-MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/fborja/.android/build-cache/dae7dd4271dbcdc7b54c9cc0e910c1e1ea0453d9/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:25.3.1] /Users/fborja/.android/build-cache/9700a3731819f0d543f63ae72039cd4b2677edf0/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] /Users/fborja/.android/build-cache/39037dde9322ab4fd6cd8f0281629be45fc6ba78/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] /Users/fborja/.android/build-cache/9bcf92acb6cc787123a927b4b33679f948c6ac61/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] /Users/fborja/.android/build-cache/e1fa71d1b380027b243a21f8aabc12dcaee5efbc/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] /Users/fborja/.android/build-cache/58f307b077e0dec032188623b7a680b9dc09729f/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/fborja/.android/build-cache/3c9fd046bad8458283e2f783f1b81205407b1c29/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/fborja/.android/build-cache/fb0ecd68d41163c5cdd8c7fa968c8501010f0f1f/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-compat:25.3.1] /Users/fborja/.android/build-cache/4dd361b5da8e568b02095ac17f483cd4ba66d94c/output/AndroidManifest.xml:29:5-20
+ADDED from /Users/fborja/StudioProjects/ProblemasEuler/app/src/main/AndroidManifest.xml:5:5-13:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/fborja/.android/build-cache/f387f3fb1d52b3c0f4616cc65e5ec7bccfba3543/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/fborja/.android/build-cache/d9ac57a62256ce489c85e498301a7c23b003c944/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/fborja/.android/build-cache/2b4b98690a6e0fc0d12fe1af5fb11ae82df677a6/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/fborja/.android/build-cache/97b44a783bd2a55dae74aa97bf2c23780324dd6b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/fborja/.android/build-cache/9180eef1795dc077077d5d8afe64380347c26210/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/fborja/.android/build-cache/d0f97c0049303709478c10a657f307ae2ef39238/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/fborja/.android/build-cache/6ad9581eea46b03c41b5b9b38179b633cef993d8/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/fborja/.android/build-cache/ba833b51e396e92b9bcda2b27c71e18529b84cd1/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/fborja/.android/build-cache/d07aea69a11144424bf544df3d54dc9245c10e05/output/AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from /Users/fborja/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /Users/fborja/StudioProjects/ProblemasEuler/app/src/main/AndroidManifest.xml:8:9-41
 	android:supportsRtl
-		ADDED from /Users/fborja/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /Users/fborja/StudioProjects/ProblemasEuler/app/src/main/AndroidManifest.xml:10:9-35
 	android:roundIcon
-		ADDED from /Users/fborja/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /Users/fborja/StudioProjects/ProblemasEuler/app/src/main/AndroidManifest.xml:9:9-54
 	android:allowBackup
-		ADDED from /Users/fborja/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /Users/fborja/StudioProjects/ProblemasEuler/app/src/main/AndroidManifest.xml:6:9-35
 	android:icon
-		ADDED from /Users/fborja/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /Users/fborja/StudioProjects/ProblemasEuler/app/src/main/AndroidManifest.xml:7:9-43
 	android:theme
-		ADDED from /Users/fborja/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:11:9-40
+		ADDED from /Users/fborja/StudioProjects/ProblemasEuler/app/src/main/AndroidManifest.xml:11:9-40
 uses-sdk
-INJECTED from /Users/fborja/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/fborja/.android/build-cache/dae7dd4271dbcdc7b54c9cc0e910c1e1ea0453d9/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.3.1] /Users/fborja/.android/build-cache/9700a3731819f0d543f63ae72039cd4b2677edf0/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] /Users/fborja/.android/build-cache/39037dde9322ab4fd6cd8f0281629be45fc6ba78/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] /Users/fborja/.android/build-cache/9bcf92acb6cc787123a927b4b33679f948c6ac61/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] /Users/fborja/.android/build-cache/e1fa71d1b380027b243a21f8aabc12dcaee5efbc/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] /Users/fborja/.android/build-cache/58f307b077e0dec032188623b7a680b9dc09729f/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/fborja/.android/build-cache/3c9fd046bad8458283e2f783f1b81205407b1c29/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/fborja/.android/build-cache/fb0ecd68d41163c5cdd8c7fa968c8501010f0f1f/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-compat:25.3.1] /Users/fborja/.android/build-cache/4dd361b5da8e568b02095ac17f483cd4ba66d94c/output/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/fborja/StudioProjects/ProblemasEuler/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/fborja/.android/build-cache/f387f3fb1d52b3c0f4616cc65e5ec7bccfba3543/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /Users/fborja/.android/build-cache/d9ac57a62256ce489c85e498301a7c23b003c944/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/fborja/.android/build-cache/2b4b98690a6e0fc0d12fe1af5fb11ae82df677a6/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/fborja/.android/build-cache/97b44a783bd2a55dae74aa97bf2c23780324dd6b/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/fborja/.android/build-cache/9180eef1795dc077077d5d8afe64380347c26210/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/fborja/.android/build-cache/d0f97c0049303709478c10a657f307ae2ef39238/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/fborja/.android/build-cache/6ad9581eea46b03c41b5b9b38179b633cef993d8/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/fborja/.android/build-cache/ba833b51e396e92b9bcda2b27c71e18529b84cd1/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /Users/fborja/.android/build-cache/d07aea69a11144424bf544df3d54dc9245c10e05/output/AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/fborja/.android/build-cache/dae7dd4271dbcdc7b54c9cc0e910c1e1ea0453d9/output/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/fborja/.android/build-cache/f387f3fb1d52b3c0f4616cc65e5ec7bccfba3543/output/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from /Users/fborja/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/fborja/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fborja/StudioProjects/ProblemasEuler/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fborja/StudioProjects/ProblemasEuler/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/fborja/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/fborja/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fborja/StudioProjects/ProblemasEuler/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fborja/StudioProjects/ProblemasEuler/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/fborja/.android/build-cache/dae7dd4271dbcdc7b54c9cc0e910c1e1ea0453d9/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-v4:25.3.1] /Users/fborja/.android/build-cache/9700a3731819f0d543f63ae72039cd4b2677edf0/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] /Users/fborja/.android/build-cache/39037dde9322ab4fd6cd8f0281629be45fc6ba78/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] /Users/fborja/.android/build-cache/9bcf92acb6cc787123a927b4b33679f948c6ac61/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] /Users/fborja/.android/build-cache/e1fa71d1b380027b243a21f8aabc12dcaee5efbc/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] /Users/fborja/.android/build-cache/58f307b077e0dec032188623b7a680b9dc09729f/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/fborja/.android/build-cache/3c9fd046bad8458283e2f783f1b81205407b1c29/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/fborja/.android/build-cache/fb0ecd68d41163c5cdd8c7fa968c8501010f0f1f/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-compat:25.3.1] /Users/fborja/.android/build-cache/4dd361b5da8e568b02095ac17f483cd4ba66d94c/output/AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/fborja/.android/build-cache/f387f3fb1d52b3c0f4616cc65e5ec7bccfba3543/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/fborja/.android/build-cache/d9ac57a62256ce489c85e498301a7c23b003c944/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/fborja/.android/build-cache/2b4b98690a6e0fc0d12fe1af5fb11ae82df677a6/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/fborja/.android/build-cache/97b44a783bd2a55dae74aa97bf2c23780324dd6b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/fborja/.android/build-cache/9180eef1795dc077077d5d8afe64380347c26210/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/fborja/.android/build-cache/d0f97c0049303709478c10a657f307ae2ef39238/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/fborja/.android/build-cache/6ad9581eea46b03c41b5b9b38179b633cef993d8/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/fborja/.android/build-cache/ba833b51e396e92b9bcda2b27c71e18529b84cd1/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/fborja/.android/build-cache/d07aea69a11144424bf544df3d54dc9245c10e05/output/AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/fborja/.android/build-cache/dae7dd4271dbcdc7b54c9cc0e910c1e1ea0453d9/output/AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/fborja/.android/build-cache/f387f3fb1d52b3c0f4616cc65e5ec7bccfba3543/output/AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/fborja/.android/build-cache/dae7dd4271dbcdc7b54c9cc0e910c1e1ea0453d9/output/AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/fborja/.android/build-cache/f387f3fb1d52b3c0f4616cc65e5ec7bccfba3543/output/AndroidManifest.xml:26:9-47
