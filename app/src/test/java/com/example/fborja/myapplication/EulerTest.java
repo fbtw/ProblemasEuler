@@ -35,16 +35,33 @@ public class EulerTest {
     public void terceroTest() throws Exception {
         float resultado= Euler.tercero();
         Assert.assertEquals(6857,resultado,1);
-    }/*
+    }
+    @Test
+    public void pallyTest() throws Exception {
+        Assert.assertEquals(true,Euler.pally(69596));
+    }
+
     @Test
     public void cuartoTest() throws Exception {
-        int resultado= Euler.cuarto();
-        Assert.assertEquals(4613732,resultado);
-    }@Test
+        int resultado= Euler.cuarto(3);
+        Assert.assertEquals(906609,resultado);
+    }
+
+    @Test
+    public void factoresTest() throws Exception {
+        int[] F={0,0,0,0,0,0,0,0,0,0,1};
+        Assert.assertArrayEquals(F,Euler.factoresprimos(29));
+    }
+    @Test
+    public void mcmTest() throws Exception {
+        int resultado= Euler.MCM(72,50);
+        Assert.assertEquals(1800,resultado);
+    }
+    @Test
     public void quintoTest() throws Exception {
         int resultado= Euler.quinto();
-        Assert.assertEquals(4613732,resultado);
+        Assert.assertEquals(0,resultado);
     }
-    */
+
 
 }
