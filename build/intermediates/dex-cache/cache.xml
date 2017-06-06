@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/fborja/.android/build-cache/39037dde9322ab4fd6cd8f0281629be45fc6ba78/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/fborja/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_39adf742a1c7c0bdfaf1fe9375e84d0ee6c11f89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fborja/.android/build-cache/58f307b077e0dec032188623b7a680b9dc09729f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/fborja/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_59e18e16cc9387f7c6bc6a6897213806af37abed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fborja/.android/build-cache/e1fa71d1b380027b243a21f8aabc12dcaee5efbc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/fborja/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_dc181d09ff49eedcf5a88ad97d92ab878ae079af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fborja/.android/build-cache/9bcf92acb6cc787123a927b4b33679f948c6ac61/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/fborja/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_dc73de769293177573b0b3766c132111d85bcaa6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fborja/.android/build-cache/dae7dd4271dbcdc7b54c9cc0e910c1e1ea0453d9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/fborja/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_2934a72e6f1c2f48dd4add676bc7d554bee514e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fborja/.android/build-cache/3c9fd046bad8458283e2f783f1b81205407b1c29/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/fborja/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_901974ccfe608131e38c782ae540c5a9d9606237.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fborja/.android/build-cache/4dd361b5da8e568b02095ac17f483cd4ba66d94c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/fborja/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_af7f815205382930bfa2323921d15ec6cb69f7fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fborja/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/fborja/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_8eaa0f2b9c31d4651f52f9a95a6f172c047ff36a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fborja/.android/build-cache/9700a3731819f0d543f63ae72039cd4b2677edf0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/fborja/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_acc3d6a51082104b51eba5a3849cb3a5597aeb96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fborja/.android/build-cache/fb0ecd68d41163c5cdd8c7fa968c8501010f0f1f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/fborja/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_ff92142525f18e54a8333215dc4b7801ada513f6.jar" />
+    </item>
+
+</items>
